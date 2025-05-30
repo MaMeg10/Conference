@@ -1,6 +1,3 @@
-# Conference
-Ce repertoire contient le PowerPoint du workshop "De la Menace à la Résilience : Un programme de réponse aux incidents stratégique et opérationnel" ainsi que des outils
-
 ![Pat-Pilotte](https://github.com/user-attachments/assets/33c22fb5-21dd-497d-8cd0-a5c0e7ff296a)
 
 Patrick Pilotte est un leader influent dans le domaine de la cybersécurité, avec plus de 20 ans d'expérience spécialisée dans l'administration de serveurs et la protection des infrastructures. En tant que Gestionnaire de la sécurité de l’information, il a dirigé la sécurisation de systèmes complexes tout en prônant une approche axée sur l'humain. En plus d’être certifié Incident Responder (eCIR), Patrick est également un formateur reconnu, ayant animé des ateliers et donné de nombreuses formations lors d'événements majeurs tels qu'ITSEC et SecTor. Patrick est dédié à cultiver une communauté de professionnels en cybersécurité, en favorisant l'échange de savoirs et les meilleures pratiques pour répondre aux défis de demain.
